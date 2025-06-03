@@ -115,6 +115,7 @@ loop.run_until_complete(main())
 
 Либо вы можете зайти в веб тг, нажать f12, открыть вкладку network, зайти на маркет, найти запрос по `https://api.tgmrkt.io/api/v1/auth`, и в Response взять этот токен.   
 
+![image](https://github.com/user-attachments/assets/5c5c6f17-7cfc-422c-8535-31d4acc4fd05)
 
    
 Время действия токена неизвестно, но точно более суток.
